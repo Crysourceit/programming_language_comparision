@@ -8,7 +8,7 @@ In this project, I made Traditional Tic Tac Toe game which can be controlled by 
 
 For more information can be seen in my [video]("https://youtu.be/METnSa6vqD8") on YouTube.
 
-[![video cover](https://github.com/TitorPs360/programming_language_comparision/blob/main/fig/cover.png)]("https://youtu.be/METnSa6vqD8")
+[![video cover](./fig/cover.png)]("https://youtu.be/METnSa6vqD8")
 
 ## Requirements
 
@@ -117,4 +117,4 @@ For more information can be seen in my [video]("https://youtu.be/METnSa6vqD8") o
 
 ## Result
 
-![Testing result](https://github.com/TitorPs360/programming_language_comparision/blob/main/fig/testing_result.png?raw=true)
+![Testing result](./fig/testing_result.png)
