@@ -6,7 +6,7 @@ In this repository, I have programmed a prime number validation program from 6 l
 
 ## Youtube
 
-For more information can be seen in my [video]("https://youtu.be/METnSa6vqD8") on YouTube.
+For more information can be seen in my [video](https://youtu.be/METnSa6vqD8) on YouTube.
 
 [![video cover](./fig/cover.png)]("https://youtu.be/METnSa6vqD8")
 
